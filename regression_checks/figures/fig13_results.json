@@ -1,0 +1,168 @@
+{
+  "GPT2_small_AR": {
+    "1": {
+      "latency_ms": 2.041827,
+      "throughput": 489.757,
+      "energy_eff": 135.97,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 7.340421,
+      "total_energy_mJ": 7.354541,
+      "avg_power_W": 3.601941
+    },
+    "2": {
+      "latency_ms": 2.045617,
+      "throughput": 488.85,
+      "energy_eff": 135.758,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 7.351954,
+      "total_energy_mJ": 7.366074,
+      "avg_power_W": 3.600905
+    },
+    "8": {
+      "latency_ms": 2.072387,
+      "throughput": 482.535,
+      "energy_eff": 133.154,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 7.496001,
+      "total_energy_mJ": 7.510121,
+      "avg_power_W": 3.623898
+    },
+    "128": {
+      "latency_ms": 4.889478,
+      "throughput": 204.521,
+      "energy_eff": 66.236,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 15.083496,
+      "total_energy_mJ": 15.097617,
+      "avg_power_W": 3.087777
+    },
+    "512": {
+      "latency_ms": 13.31746,
+      "throughput": 75.089,
+      "energy_eff": 27.767,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 36.000447,
+      "total_energy_mJ": 36.014567,
+      "avg_power_W": 2.704312
+    },
+    "1024": {
+      "latency_ms": 25.583496,
+      "throughput": 39.088,
+      "energy_eff": 14.718,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 67.928075,
+      "total_energy_mJ": 67.942196,
+      "avg_power_W": 2.655704
+    },
+    "2048": {
+      "latency_ms": 47.303067,
+      "throughput": 21.14,
+      "energy_eff": 8.015,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 124.752083,
+      "total_energy_mJ": 124.766203,
+      "avg_power_W": 2.637592
+    },
+    "3072": {
+      "latency_ms": 75.554547,
+      "throughput": 13.235,
+      "energy_eff": 5.237,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 190.951091,
+      "total_energy_mJ": 190.965211,
+      "avg_power_W": 2.527514
+    },
+    "4096": {
+      "latency_ms": 97.121975,
+      "throughput": 10.296,
+      "energy_eff": 4.074,
+      "analog_energy_mJ": 0.01412,
+      "digital_energy_mJ": 245.431348,
+      "total_energy_mJ": 245.445468,
+      "avg_power_W": 2.527188
+    }
+  },
+  "T5_decoder": {
+    "1": {
+      "latency_ms": 1.42176,
+      "throughput": 703.353,
+      "energy_eff": 535.574,
+      "analog_energy_mJ": 0.183652,
+      "digital_energy_mJ": 1.683502,
+      "total_energy_mJ": 1.867154,
+      "avg_power_W": 1.313269
+    },
+    "2": {
+      "latency_ms": 0.86098,
+      "throughput": 1161.468,
+      "energy_eff": 1104.144,
+      "analog_energy_mJ": 0.004309,
+      "digital_energy_mJ": 0.90137,
+      "total_energy_mJ": 0.905679,
+      "avg_power_W": 1.051917
+    },
+    "8": {
+      "latency_ms": 0.861172,
+      "throughput": 1161.209,
+      "energy_eff": 1101.253,
+      "analog_energy_mJ": 0.004309,
+      "digital_energy_mJ": 0.903748,
+      "total_energy_mJ": 0.908056,
+      "avg_power_W": 1.054443
+    },
+    "128": {
+      "latency_ms": 0.874278,
+      "throughput": 1143.8,
+      "energy_eff": 934.254,
+      "analog_energy_mJ": 0.004309,
+      "digital_energy_mJ": 1.066064,
+      "total_energy_mJ": 1.070372,
+      "avg_power_W": 1.224292
+    },
+    "512": {
+      "latency_ms": 0.924121,
+      "throughput": 1082.11,
+      "energy_eff": 592.551,
+      "analog_energy_mJ": 0.004309,
+      "digital_energy_mJ": 1.683311,
+      "total_energy_mJ": 1.68762,
+      "avg_power_W": 1.82619
+    },
+    "1024": {
+      "latency_ms": 1.100658,
+      "throughput": 908.548,
+      "energy_eff": 638.692,
+      "analog_energy_mJ": 0.004309,
+      "digital_energy_mJ": 1.561391,
+      "total_energy_mJ": 1.565699,
+      "avg_power_W": 1.422512
+    },
+    "2048": {
+      "latency_ms": 2.043086,
+      "throughput": 489.456,
+      "energy_eff": 393.967,
+      "analog_energy_mJ": 0.004309,
+      "digital_energy_mJ": 2.533977,
+      "total_energy_mJ": 2.538285,
+      "avg_power_W": 1.242378
+    },
+    "3072": {
+      "latency_ms": 2.985514,
+      "throughput": 334.951,
+      "energy_eff": 284.83,
+      "analog_energy_mJ": 0.004309,
+      "digital_energy_mJ": 3.506563,
+      "total_energy_mJ": 3.510871,
+      "avg_power_W": 1.175969
+    },
+    "4096": {
+      "latency_ms": 3.927942,
+      "throughput": 254.586,
+      "energy_eff": 223.042,
+      "analog_energy_mJ": 0.004309,
+      "digital_energy_mJ": 4.479148,
+      "total_energy_mJ": 4.483457,
+      "avg_power_W": 1.141426
+    }
+  }
+}

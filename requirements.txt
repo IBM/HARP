@@ -1,0 +1,8 @@
+matplotlib
+networkx
+joblib
+pandas
+colorama
+# Pinned: the predictors in pmca_prediction_model/*.pkl were serialized with
+# scikit-learn 1.6.1. Newer versions load them but raise InconsistentVersionWarning.
+scikit-learn==1.6.1

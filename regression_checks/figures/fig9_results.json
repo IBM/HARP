@@ -1,0 +1,170 @@
+{
+  "512": {
+    "BERT_B": {
+      "Serial": {
+        "latency_ms": 243.423003,
+        "throughput": 4.108,
+        "energy_eff": 15.345,
+        "analog_energy_mJ": 3.697183,
+        "digital_energy_mJ": 61.471248,
+        "total_energy_mJ": 65.168431,
+        "avg_power_W": 0.267717
+      },
+      "XB-pipe": {
+        "latency_ms": 17.019483,
+        "throughput": 58.756,
+        "energy_eff": 16.752,
+        "analog_energy_mJ": 3.697183,
+        "digital_energy_mJ": 55.995804,
+        "total_energy_mJ": 59.692987,
+        "avg_power_W": 3.507333
+      }
+    },
+    "BERT_L": {
+      "Serial": {
+        "latency_ms": 632.686688,
+        "throughput": 1.581,
+        "energy_eff": 5.853,
+        "analog_energy_mJ": 12.184381,
+        "digital_energy_mJ": 158.681264,
+        "total_energy_mJ": 170.865646,
+        "avg_power_W": 0.270064
+      },
+      "XB-pipe": {
+        "latency_ms": 63.194163,
+        "throughput": 15.824,
+        "energy_eff": 6.465,
+        "analog_energy_mJ": 12.184381,
+        "digital_energy_mJ": 142.494431,
+        "total_energy_mJ": 154.678812,
+        "avg_power_W": 2.447676
+      }
+    }
+  },
+  "384": {
+    "BERT_B": {
+      "Serial": {
+        "latency_ms": 244.015899,
+        "throughput": 4.098,
+        "energy_eff": 15.343,
+        "analog_energy_mJ": 3.697183,
+        "digital_energy_mJ": 61.479036,
+        "total_energy_mJ": 65.176218,
+        "avg_power_W": 0.267098
+      },
+      "XB-pipe": {
+        "latency_ms": 17.143035,
+        "throughput": 58.333,
+        "energy_eff": 16.751,
+        "analog_energy_mJ": 3.697183,
+        "digital_energy_mJ": 56.001649,
+        "total_energy_mJ": 59.698832,
+        "avg_power_W": 3.482396
+      }
+    },
+    "BERT_L": {
+      "Serial": {
+        "latency_ms": 634.263648,
+        "throughput": 1.577,
+        "energy_eff": 5.852,
+        "analog_energy_mJ": 12.184381,
+        "digital_energy_mJ": 158.701871,
+        "total_energy_mJ": 170.886253,
+        "avg_power_W": 0.269425
+      },
+      "XB-pipe": {
+        "latency_ms": 63.520611,
+        "throughput": 15.743,
+        "energy_eff": 6.464,
+        "analog_energy_mJ": 12.184381,
+        "digital_energy_mJ": 142.513237,
+        "total_energy_mJ": 154.697619,
+        "avg_power_W": 2.435392
+      }
+    }
+  },
+  "256": {
+    "BERT_B": {
+      "Serial": {
+        "latency_ms": 245.201691,
+        "throughput": 4.078,
+        "energy_eff": 15.339,
+        "analog_energy_mJ": 3.697183,
+        "digital_energy_mJ": 61.494611,
+        "total_energy_mJ": 65.191793,
+        "avg_power_W": 0.26587
+      },
+      "XB-pipe": {
+        "latency_ms": 17.390331,
+        "throughput": 57.503,
+        "energy_eff": 16.747,
+        "analog_energy_mJ": 3.697183,
+        "digital_energy_mJ": 56.013458,
+        "total_energy_mJ": 59.710641,
+        "avg_power_W": 3.433554
+      }
+    },
+    "BERT_L": {
+      "Serial": {
+        "latency_ms": 637.417568,
+        "throughput": 1.569,
+        "energy_eff": 5.85,
+        "analog_energy_mJ": 12.184381,
+        "digital_energy_mJ": 158.743085,
+        "total_energy_mJ": 170.927467,
+        "avg_power_W": 0.268156
+      },
+      "XB-pipe": {
+        "latency_ms": 64.171443,
+        "throughput": 15.583,
+        "energy_eff": 6.463,
+        "analog_energy_mJ": 12.184381,
+        "digital_energy_mJ": 142.549619,
+        "total_energy_mJ": 154.734,
+        "avg_power_W": 2.411259
+      }
+    }
+  },
+  "128": {
+    "BERT_B": {
+      "Serial": {
+        "latency_ms": 248.759067,
+        "throughput": 4.02,
+        "energy_eff": 15.328,
+        "analog_energy_mJ": 3.697183,
+        "digital_energy_mJ": 61.541336,
+        "total_energy_mJ": 65.238518,
+        "avg_power_W": 0.262256
+      },
+      "XB-pipe": {
+        "latency_ms": 18.132027,
+        "throughput": 55.151,
+        "energy_eff": 16.734,
+        "analog_energy_mJ": 3.697183,
+        "digital_energy_mJ": 56.060063,
+        "total_energy_mJ": 59.757246,
+        "avg_power_W": 3.295674
+      }
+    },
+    "BERT_L": {
+      "Serial": {
+        "latency_ms": 646.879328,
+        "throughput": 1.546,
+        "energy_eff": 5.846,
+        "analog_energy_mJ": 12.184381,
+        "digital_energy_mJ": 158.866727,
+        "total_energy_mJ": 171.051108,
+        "avg_power_W": 0.264425
+      },
+      "XB-pipe": {
+        "latency_ms": 66.125043,
+        "throughput": 15.123,
+        "energy_eff": 6.458,
+        "analog_energy_mJ": 12.184381,
+        "digital_energy_mJ": 142.673141,
+        "total_energy_mJ": 154.857522,
+        "avg_power_W": 2.341889
+      }
+    }
+  }
+}

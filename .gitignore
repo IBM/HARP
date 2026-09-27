@@ -1,0 +1,7 @@
+Plots/
+outputs/
+__pycache__
+*.regression_backup.*
+regression_checks/regression_status.txt
+regression_checks/reproduce_status.txt
+regression_checks/figures/run_timing.json

@@ -1,0 +1,101 @@
+{
+  "1": {
+    "latency_ms": 11.167849,
+    "throughput": 89.543,
+    "energy_eff": 35.101,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 28.47537,
+    "total_energy_mJ": 28.48949,
+    "avg_power_W": 2.551027
+  },
+  "2": {
+    "latency_ms": 9.556476,
+    "throughput": 104.641,
+    "energy_eff": 38.254,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 26.127042,
+    "total_energy_mJ": 26.141162,
+    "avg_power_W": 2.73544
+  },
+  "3": {
+    "latency_ms": 8.617145,
+    "throughput": 116.048,
+    "energy_eff": 42.029,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 23.778714,
+    "total_energy_mJ": 23.792835,
+    "avg_power_W": 2.761104
+  },
+  "4": {
+    "latency_ms": 6.738483,
+    "throughput": 148.401,
+    "energy_eff": 52.366,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 19.082059,
+    "total_energy_mJ": 19.096179,
+    "avg_power_W": 2.833899
+  },
+  "5": {
+    "latency_ms": 5.799151,
+    "throughput": 172.439,
+    "energy_eff": 59.709,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 16.733731,
+    "total_energy_mJ": 16.747852,
+    "avg_power_W": 2.887983
+  },
+  "6": {
+    "latency_ms": 4.85982,
+    "throughput": 205.769,
+    "energy_eff": 69.447,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 14.385404,
+    "total_energy_mJ": 14.399524,
+    "avg_power_W": 2.962975
+  },
+  "7": {
+    "latency_ms": 2.981158,
+    "throughput": 335.44,
+    "energy_eff": 103.062,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 9.688749,
+    "total_energy_mJ": 9.702869,
+    "avg_power_W": 3.254731
+  },
+  "8": {
+    "latency_ms": 2.041827,
+    "throughput": 489.757,
+    "energy_eff": 135.97,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 7.340421,
+    "total_energy_mJ": 7.354541,
+    "avg_power_W": 3.601941
+  },
+  "9": {
+    "latency_ms": 1.102496,
+    "throughput": 907.033,
+    "energy_eff": 199.752,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 4.992093,
+    "total_energy_mJ": 5.006214,
+    "avg_power_W": 4.540799
+  },
+  "10": {
+    "latency_ms": 1.04455,
+    "throughput": 957.35,
+    "energy_eff": 376.239,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 2.643766,
+    "total_energy_mJ": 2.657886,
+    "avg_power_W": 2.544527
+  },
+  "11": {
+    "latency_ms": 1.04455,
+    "throughput": 957.35,
+    "energy_eff": 376.239,
+    "analog_energy_mJ": 0.01412,
+    "digital_energy_mJ": 2.643766,
+    "total_energy_mJ": 2.657886,
+    "avg_power_W": 2.544527
+  }
+}
