@@ -144,5 +144,5 @@ If you use HARP, please cite:
 ## 6. Other notes
 
 - License: Apache-2.0 (see [LICENSE](LICENSE)).
-- DOI: this artifact will be tagged and paired with a Zenodo deposit to obtain a persistent DOI, per the TPDS reproducibility process; the DOI will be added here once minted.
-- Questions about the artifact can be directed to elf@zurich.ibm.com.
+- DOI: [10.5281/zenodo.23018118](https://doi.org/10.5281/zenodo.23018118) (Zenodo deposit archiving the `v1.0.0` GitHub release).
+- Questions about the artifact can be directed to elf@zurich.ibm.com (primary contact), or ibo@zurich.ibm.com (Irem Boybat, secondary contact).

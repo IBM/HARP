@@ -2,6 +2,7 @@
 
 [![Journal](https://img.shields.io/badge/Journal-IEEE%20TPDS%202026-blue)](https://ieeexplore.ieee.org/document/11576587)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23018118.svg)](https://doi.org/10.5281/zenodo.23018118)
 
 This repository contains the open-source code for **"HARP: Heterogeneous Analog-Digital Resource-Aware Performance and Scheduling Framework for Transformer Acceleration"**, published in *IEEE Transactions on Parallel and Distributed Systems* (TPDS), Volume 37, Issue 9, September 2026. See the [paper](https://ieeexplore.ieee.org/document/11576587) for the full methodology and evaluation.
 
