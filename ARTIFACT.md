@@ -145,4 +145,5 @@ If you use HARP, please cite:
 
 - License: Apache-2.0 (see [LICENSE](LICENSE)).
 - DOI: [10.5281/zenodo.23018118](https://doi.org/10.5281/zenodo.23018118) (Zenodo deposit archiving the `v1.0.0` GitHub release).
+- Interactive compute capsule: this artifact is also published on [Code Ocean](https://codeocean.com/capsule/4146190/tree).
 - Questions about the artifact can be directed to elf@zurich.ibm.com (primary contact), or ibo@zurich.ibm.com (Irem Boybat, secondary contact).
